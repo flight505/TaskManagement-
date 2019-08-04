@@ -46,3 +46,4 @@ A How To on task management for the DDI group
 
 - [ ] github account: _mytee306_
 - [ ] code editor: _vscode_
+- [ ] https://www.youtube.com/watch?v=qRdht9CS_No
