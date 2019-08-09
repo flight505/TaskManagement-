@@ -13,7 +13,7 @@ A How To on task management for the DDI group
 - [ ] create project from automated kanban template
 - [ ] create issue
   - [ ] add meta data to the issue
-    - [ ] assignee: _mytee306_
+    - [ ] assignee: _UserName?_
     - [ ] label: _enhancement_
     - [ ] project: _Automated Kanban Project_
 - [ ] check automated kanban
@@ -44,6 +44,5 @@ A How To on task management for the DDI group
 
 ## Requirements
 
-- [ ] github account: _mytee306_
-- [ ] code editor: _vscode_
-- [ ] https://www.youtube.com/watch?v=qRdht9CS_No
+- [ ] github account: _ICOPE_
+- [ ] code editor: _vscode_ or _Jupyter_
